@@ -46,7 +46,7 @@ const Bookpublishingservices = () => {
       discuss: discuss,
       homebannernum: 'Call Our Team At (213) 289 3888',
       banlogo: homebannerlogos,
-      banners: 'bookpromotionservices',
+      banners: 'bookmarketingservices',
 
 
 

@@ -30,7 +30,7 @@ import styles from '@/styles/Whybookpublishing.module.css'
 
 const EbookWritingservices = () => {
 
-  const newSpan = <h1 className='font50 fw700 color-white font-f hero-span'><Link className='color-white textdocationnone hover' href='/web-content-writing-services'>Web Content Writing Service</Link> That Gives Your Business Persona A Professional Look! </h1>;
+  const newSpan = <h1 className='font50 fw700 text-black font-f hero-span'><Link className='text-black textdocationnone hover' href='/web-content-writing-services'>Web Content Writing Service</Link> That Gives Your Business Persona A Professional Look! </h1>;
 
   const discuss = <span>LET'S DISCUSS</span>
 
@@ -55,7 +55,7 @@ const EbookWritingservices = () => {
 
   const titleDb = <span className=' color-blue'>Want To Boost Traffic? </span>
   const posdata = <span className='fw700'>
-    Discuss Your Requirements With Our Qualified Team Of <Link className='color-white textdocationnone hover' href='/web-content-writing-services'>Content Writers</Link>  And Get Best Solutions!</span>
+    Discuss Your Requirements With Our Qualified Team Of <Link className='text-black textdocationnone hover' href='/web-content-writing-services'>Content Writers</Link>  And Get Best Solutions!</span>
 
 
   const WaitingForSomeone = <span>Tired Of The Same Outdated Content On Your Website?</span>

@@ -92,7 +92,7 @@ const Homebanner = (props) => {
 
                                 {props.text ?
 
-                                    <p className={`${styles.newPara}  font16 color-white font-f mt-4 m-0`}>{props.text}</p>
+                                    <p className={`${styles.newPara}  font16 text-black font-f mt-4 m-0`}>{props.text}</p>
                                     :
                                     ''
                                 }

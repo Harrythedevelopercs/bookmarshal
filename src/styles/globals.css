@@ -15,7 +15,7 @@ body {
 .color-grey {
   color: #2c2c2c;
 }
-.color-white {
+.text-black {
   color: #fff;
 }
 .color-lightgray {
@@ -26,7 +26,7 @@ body {
 }
 
 .colorexpertgrey {
-  color: #24303e;
+  color: #02adb54d;
 }
 .colortextgrey {
   color: #223235;
@@ -39,7 +39,7 @@ body {
 }
 
 .hero-span span {
-  color: #fff;
+  color: #222;
   font-weight: 300;
 }
 
@@ -182,7 +182,7 @@ body {
   counter-reset: section;
   position: relative;
   padding: 100px 0;
-  background-color: #141d29;
+  background-color: #02adb54d;
 }
 .still h2 {
   padding-bottom: 40px;

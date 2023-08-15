@@ -17,7 +17,7 @@ const Childrenbook = (props) => {
 <Col md={5}>
    <div className={styles[props.classnumber]}>
         <h5 className="font20 fw500 color-blue font-f">{props.title}</h5>
-        <p className={` ${styles.stilltext} color-white font15  font-f t-center`}>{props.text}</p>
+        <p className={` ${styles.stilltext} text-black font15  font-f t-center`}>{props.text}</p>
       
    </div>
 </Col>

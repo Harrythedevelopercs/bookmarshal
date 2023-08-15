@@ -114,8 +114,8 @@ const Professionalaudiobook = () => {
                         </Col>
                         <Col lg={9}>
 
-                            <h3 className='color-white font-f font14 fw400'>Continue Reading</h3>
-                            <h2 className='color-white font-f linh mt-3'> <Link href="#" className='color-black font-f fw700 textdocationnone hover1'>Texas Book Publishing</Link> Is waiting for you to Ask <br className="d-none d-xl-block" /> for a <Link href="#" className='color-black font-f fw700 textdocationnone hover1'> Professional Audio Book Production</Link></h2>
+                            <h3 className='text-black font-f font14 fw400'>Continue Reading</h3>
+                            <h2 className='text-black font-f linh mt-3'> <Link href="#" className='color-black font-f fw700 textdocationnone hover1'>Texas Book Publishing</Link> Is waiting for you to Ask <br className="d-none d-xl-block" /> for a <Link href="#" className='color-black font-f fw700 textdocationnone hover1'> Professional Audio Book Production</Link></h2>
 
 
 

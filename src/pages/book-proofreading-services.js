@@ -25,7 +25,7 @@ import styles from '@/styles/Whybookpublishing.module.css'
 
 const Bookpublishingservices = () => {
 
-  const newSpan = <h1 className='font50 color-white font-f hero-span'> Refine Your Book with Impeccable Mastery through our Professional  <Link className='textdocationnone fw700 color-blue hover' href="/book-proofreading-services"> Book Proofreading Services </Link> <span className=''></span>   </h1>;
+  const newSpan = <h1 className='font50 text-black font-f hero-span'> Refine Your Book with Impeccable Mastery through our Professional  <Link className='textdocationnone fw700 color-blue hover' href="/book-proofreading-services"> Book Proofreading Services </Link> <span className=''></span>   </h1>;
 
   const discuss = <span>Hire The Best Book Proofreading Services!</span>
 

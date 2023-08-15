@@ -170,11 +170,11 @@ const Footer = () => {
                 <li className={styles.socaillinks}><Link className={styles.styleset} href="https://www.linkedin.com/company/bookwritingexp"><FaLinkedinIn size={17} /></Link></li>
               </ul>
 
-              <Image loading="lazy" className='mt-3' src={protectedlogo} alt='Texas Book Publishing'></Image>
+              <Image loading="lazy" className={`${styles.pay} mt-3`} src={protectedlogo} alt='Texas Book Publishing'></Image>
 
             </Col>
             <Col md={3}>
-              <h2 className='font-f font22 fw500 border-bottom'>Useful Links</h2>
+              <h2 className='font-f font22 fw500'>Useful Links</h2>
               <ul className={`${styles.footermenu1} mt-4`}>
 
                 <li className={`${styles.footermenulinks} `}><Link className={styles.styleset} href="/">Home</Link></li>
@@ -194,7 +194,7 @@ const Footer = () => {
             </Col>
             <Col md={3}>
 
-              <h2 className='font-f font22 fw500 border-bottom'>Services</h2>
+              <h2 className='font-f font22 fw500'>Services</h2>
 
               <ul className={`${styles.footermenu1}  mt-4`}>
 
@@ -224,7 +224,7 @@ const Footer = () => {
 
             </Col>
             <Col md={2}>
-              <h2 className='font-f font22 fw500 border-bottom'>Awards</h2>
+              <h2 className='font-f font22 fw500'>Awards</h2>
 
 
 

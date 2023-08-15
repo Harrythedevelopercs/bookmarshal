@@ -297,9 +297,9 @@ const Childrenbookillustrationsservices = () => {
       <div className={styles.stillbookwritingservices}>
         <Container >
           <Row >
-            <h2 className='font50 fw700 color-white t-center font-f mb-3 font-f'>The Ideal Illustrations for Children's Books!</h2>
+            <h2 className='font50 fw700 text-black t-center font-f mb-3 font-f'>The Ideal Illustrations for Children's Books!</h2>
 
-            <p className='font15  color-white t-center pb-5 font-f'>Through compelling text and excellent illustrations, we hope to explore and illuminate the emotional and amusing aspects of children's experiences and social interactions. Why not come along with us? There are several different kinds of children's book illustrations, so before you contact us, for instance, you should be aware of them all and decide which one is best for your project. Don't know what the different types of illustrations are? Allow us to enlighten you.</p>
+            <p className='font15  text-black t-center pb-5 font-f'>Through compelling text and excellent illustrations, we hope to explore and illuminate the emotional and amusing aspects of children's experiences and social interactions. Why not come along with us? There are several different kinds of children's book illustrations, so before you contact us, for instance, you should be aware of them all and decide which one is best for your project. Don't know what the different types of illustrations are? Allow us to enlighten you.</p>
 
           </Row>
 

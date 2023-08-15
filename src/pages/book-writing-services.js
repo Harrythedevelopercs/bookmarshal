@@ -30,7 +30,7 @@ import styles from '@/styles/Whybookpublishing.module.css'
 
 const Bookpublishingservices = () => {
 
-  const newSpan = <h1 className='font50  color-white font-f hero-span'> Leave Your Mark Forever: Our  <Link className='textdocationnone color-blue hover fw700' href="/book-writing-services">Book Marketing Services</Link>  <span className=''>Will Ensure Your Book To Leave a Lasting Impression!</span> </h1>;
+  const newSpan = <h1 className='font50  text-black font-f hero-span'> Leave Your Mark Forever: Our  <Link className='textdocationnone color-blue hover fw700' href="/book-writing-services">Book Marketing Services</Link>  <span className=''>Will Ensure Your Book To Leave a Lasting Impression!</span> </h1>;
 
   const discuss = <span>Market Your Book Now!</span>
 
@@ -472,7 +472,7 @@ const Bookpublishingservices = () => {
       <div className={styles.stillbookwritingservices}>
         <Container >
           <Row >
-            <h2 className='font50 fw700 color-white t-center font-f mb-5'>What Distinguishes Us?</h2>
+            <h2 className='font50 fw700 text-black t-center font-f mb-5'>What Distinguishes Us?</h2>
           </Row>
 
           <Row className='gy-5'>

@@ -35,7 +35,7 @@ const audioBookRecordingServices = () => {
   const text = <span>We write, market, and review books of all kinds.</span>;
   const subtext = <span> Profit from our wide range of book publication styles and forms to secure your position as a book writing guru. In addition to publishing children's books, we are among the top Amazon publishing service suppliers.</span>;
 
-  const newSpan = <h1 className='font50 fw700 color-white font-f hero-span'><Link className='textdocationnone color-blue hover' href="/audio-book-recording-services/">Audiobook Recording Services</Link> to Add a Touch <br /> of Captivity to Your Manuscripts’ Words!!</h1>;
+  const newSpan = <h1 className='font50 fw700 text-black font-f hero-span'><Link className='textdocationnone color-blue hover' href="/audio-book-recording-services/">Audiobook Recording Services</Link> to Add a Touch <br /> of Captivity to Your Manuscripts’ Words!!</h1>;
   const discuss = <span>LET'S DISCUSS</span>
 
   const bannertext = [

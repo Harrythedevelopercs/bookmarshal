@@ -308,9 +308,9 @@ const Childrenbookpublicationservices = () => {
       <div className={styles.stillbookwritingservices}>
         <Container >
           <Row >
-            <h2 className='font50 fw700 color-white t-center font-f mb-3'>Creating Stories to Captivate Children’s Interest!</h2>
+            <h2 className='font50 fw700 text-black t-center font-f mb-3'>Creating Stories to Captivate Children’s Interest!</h2>
 
-            <p className="font15  font-f t-center color-white  mb-5">Be aware that not many authors manage to negotiate an agreement with the publishers. But at our company, we assist you in making contact with prominent publications and working with them.
+            <p className="font15  font-f t-center text-black  mb-5">Be aware that not many authors manage to negotiate an agreement with the publishers. But at our company, we assist you in making contact with prominent publications and working with them.
             </p>
           </Row>
 

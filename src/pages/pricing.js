@@ -20,7 +20,7 @@ const Pricing = () => {
 
   const priceHead = <h1 className='font50 fw700 color-blue'>The World Awaits Your Masterpiece!</h1>
 
-  const exprtSpan = <span className='fw500 font50 color-white font-f t-center font-f mb-4'><span className='color-blue fw700'>Texas Book Publishing</span> Is waiting for you to Ask for a <span className='color-blue fw700'>Professional Ghostwriter</span></span>;
+  const exprtSpan = <span className='fw500 font50 text-black font-f t-center font-f mb-4'><span className='color-blue fw700'>Texas Book Publishing</span> Is waiting for you to Ask for a <span className='color-blue fw700'>Professional Ghostwriter</span></span>;
 
   const discuss = <span>LET'S DISCUSS</span>
 

@@ -1,5 +1,5 @@
 .contactbg {
-  background-color: #141d29;
+  background-color: #02adb54d;
   padding-top: 170px;
   padding-bottom: 70px;
   font-family: 'Montserrat';
@@ -104,7 +104,7 @@
 
 @media (max-width: 991px) {
   .contactbg {
-    background-color: #141d29;
+    background-color: #02adb54d;
     padding-top: 70px;
     padding-bottom: 70px;
 }

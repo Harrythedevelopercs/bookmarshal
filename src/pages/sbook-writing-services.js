@@ -211,7 +211,7 @@ const Bookwritingservices = () => {
       <div className={styles.stillbookwritingservices}>
         <Container >
           <Row >
-            <h2 className='font48 fw900 color-white t-center font-f mb-5'>Why Choose Our Book Writing Services?</h2>
+            <h2 className='font48 fw900 text-black t-center font-f mb-5'>Why Choose Our Book Writing Services?</h2>
           </Row>
 
           <Row className='gy-5'>

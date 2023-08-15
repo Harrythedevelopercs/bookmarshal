@@ -1,5 +1,5 @@
 .customersatisfaction{
-    background-color: #141d29;
+    background-color: #02adb54d;
   
 }
 .customersatisfaction{
@@ -14,6 +14,10 @@
     margin-bottom: 14px;
     height: 65px;
 
+}
+
+.customerbrandimg img{
+    filter: invert(1);
 }
 @media (max-width:991px)  {
 

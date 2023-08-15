@@ -12,13 +12,13 @@ const Stopworrying = (props) => {
       <Container>
         <Row>
           <Col md={12}>
-            <h3 className='font25 font-f t-center color-white fw300'> {props.title} </h3>
+            <h3 className='font25 font-f t-center text-white fw300'> {props.title} </h3>
 
 
 
             {props.title2 ?
 
-              <h3 className='font50 font-f t-center color-white fw300'> {props.title2} </h3>
+              <h3 className='font50 font-f t-center text-white fw300'> {props.title2} </h3>
               :
 
               ''
@@ -27,33 +27,33 @@ const Stopworrying = (props) => {
 
             {props.subtitle3 ?
 
-              <p className='font15 color-white fw100 font-f t-center mt-4'>{props.subtitle3}</p>
+              <p className='font15 text-white fw100 font-f t-center mt-4'>{props.subtitle3}</p>
               :
               ''
 
             }
             {props.subtitle4 ?
 
-              <p className='font15 color-white fw100 font-f t-center'>{props.subtitle4}</p>
+              <p className='font15 text-white fw100 font-f t-center'>{props.subtitle4}</p>
               :
               ''
 
             }
 
 
-            <p className='font15 color-white fw100 font-f t-center'>{props.text}</p>
+            <p className='font15 text-white fw100 font-f t-center'>{props.text}</p>
             {props.subtext ?
 
-              <p className='font15 color-white fw100 font-f t-center'>{props.subtext}</p>
+              <p className='font15 text-white fw100 font-f t-center'>{props.subtext}</p>
               :
               ''
             }
 
 
-            <h2 className='font50 color-white fw300 font-f t-center mt-4'>{props.subtitle}</h2>
+            <h2 className='font50 text-white fw300 font-f t-center mt-4'>{props.subtitle}</h2>
             {props.subtitle2 ?
 
-              <p className='font18 color-white fw100 font-f t-center mt-4'>{props.subtitle2}</p>
+              <p className='font18 text-white fw100 font-f t-center mt-4'>{props.subtitle2}</p>
               :
               ''
 

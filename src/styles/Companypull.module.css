@@ -12,7 +12,7 @@
 
 
 .btn1{
-    background-color: #141d29;
+    background-color: #02adb54d;
     font: inherit;
     letter-spacing: inherit;
     padding: 1em 1em;
@@ -45,8 +45,8 @@
     border-radius: 50px;
     text-transform: capitalize;
     transition: color 1s;
-    color: #141d29;
-    border: 2px solid #141d29;
+    color: #02adb54d;
+    border: 2px solid #02adb54d;
     width: 100%;
     font-family: 'Montserrat'; 
     text-decoration: none;

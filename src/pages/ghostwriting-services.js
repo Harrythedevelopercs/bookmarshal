@@ -77,7 +77,7 @@ const Bookpublishingservices = () => {
 
   ]
 
-  const newSpan = <span className='font50 fw700 color-white font-f hero-span'>Bring Your Ideas to Life With Our Expert <Link className='textdocationnone color-white hover' href="/ghostwriting-services"> Ghostwriting Services! </Link> </span>;
+  const newSpan = <span className='font50 fw700 text-black font-f hero-span'>Bring Your Ideas to Life With Our Expert <Link className='textdocationnone text-black hover' href="/ghostwriting-services"> Ghostwriting Services! </Link> </span>;
 
 
 

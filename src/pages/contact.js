@@ -168,22 +168,22 @@ const Contact = () => {
                             </h2>
                             <div className={`${styles.published} pt-5`}>
 
-                                <p className='fw500 font20 color-white font-f'>
+                                <p className='fw500 font20 text-black font-f'>
                                     Let’s get in touch!
                                 </p>
-                                <p className='font20 fw500 font-f color-white'>
-                                    <span className=''>Phone:</span> <Link href='tel:213-289-3888' className={` ${styles.numpost} fw700 color-white textdocationnone`}> (213) 289 3888 </Link>
+                                <p className='font20 fw500 font-f text-black'>
+                                    <span className=''>Phone:</span> <Link href='tel:213-289-3888' className={` ${styles.numpost} fw700 text-black textdocationnone`}> (213) 289 3888 </Link>
                                 </p>
-                                <p className='font20 fw500 font-f color-white'>
-                                    <span className=''>Email:</span> <Link href='mailto:info(@)bookwritingcube(.)com' className={` ${styles.numpost} fw700 color-white textdocationnone`}>
+                                <p className='font20 fw500 font-f text-black'>
+                                    <span className=''>Email:</span> <Link href='mailto:info(@)bookwritingcube(.)com' className={` ${styles.numpost} fw700 text-black textdocationnone`}>
                                         support@texasbookpublishing.com </Link>
                                 </p>
 
                             </div>
 
 
-                            <p className='fw500 font20 color-white font-f mt-5'>
-                                Unable to reach us? Fill out the  <Link href='#contpost' className='textdocationnone color-white'>form below</Link>
+                            <p className='fw500 font20 text-black font-f mt-5'>
+                                Unable to reach us? Fill out the  <Link href='#contpost' className='textdocationnone text-black'>form below</Link>
                             </p>
 
                         </Col>
@@ -196,8 +196,8 @@ const Contact = () => {
 
 
 
-                            <h4 className='font-f fw400 font20 color-white t-center mt-3' >(Operations)</h4>
-                            <p className='font-f fw300 mt-3 color-white t-center' >
+                            <h4 className='font-f fw400 font20 text-black t-center mt-3' >(Operations)</h4>
+                            <p className='font-f fw300 mt-3 text-black t-center' >
                                 445 S.Figueroa Street, Los Angeles, CA 90071
                             </p>
 

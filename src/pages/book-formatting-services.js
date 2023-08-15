@@ -30,7 +30,7 @@ import styles from '@/styles/Whybookpublishing.module.css'
 
 const EbookWritingservices = () => {
 
-  const newSpan = <h1 className='font50 fw700 color-white font-f hero-span'> <Link className='color-white textdocationnone hover' href='/ebook-writing-services'>Book Formatting Services</Link> That Help You Proudly Put Your Name On Your Book! </h1>;
+  const newSpan = <h1 className='font50 fw700 text-black font-f hero-span'> <Link className='text-black textdocationnone hover' href='/ebook-writing-services'>Book Formatting Services</Link> That Help You Proudly Put Your Name On Your Book! </h1>;
 
   const discuss = <span>LET'S DISCUSS</span>
 
@@ -55,7 +55,7 @@ const EbookWritingservices = () => {
 
   const titleDb = <span className=' color-blue'>Do You Want To Captivate Your Readers From Beginning To End?
   </span>
-  const posdata = <span className='fw700' >Give Your Book The Professional Look It Deserves With Our <Link className='color-white textdocationnone hover' href='/book-formatting-services'>Formatting Services!</Link> </span>
+  const posdata = <span className='fw700' >Give Your Book The Professional Look It Deserves With Our <Link className='text-black textdocationnone hover' href='/book-formatting-services'>Formatting Services!</Link> </span>
 
 
   const WaitingForSomeone = <span>Waiting For Someone To <Link className='color-black textdocationnone hover' href='/ebook-writing-services' > Give Your Book An EBook Version?</Link></span>

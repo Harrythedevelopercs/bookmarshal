@@ -13,7 +13,7 @@ const Illustrativebook = (props) => {
                 <Col lg={7}>
 
                     { props.title } 
-                   <p className='color-white font-f hero-span font14'>{ props.para }</p> 
+                   <p className='text-black font-f hero-span font14'>{ props.para }</p> 
 
                    <div className='mt-4'>
                         <Link className={styles.discuss} href="telto:(213) 289 3888">(213) 289 3888</Link>
